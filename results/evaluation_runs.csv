@@ -1,0 +1,11 @@
+seed,agent,cargo_delivered,average_ship_waiting_time,crowding_violations,crowding_blocked_moves,storm_knockouts,cargo_lost,ships_arrived,ships_docked,ships_still_waiting_at_end,storms
+11,baseline,160,183.2973,0,8,0,0,74,24,50,3
+11,model,157,187.2568,0,10,0,0,74,23,51,3
+12,baseline,160,188.8219,0,9,0,0,73,24,49,3
+12,model,153,191.7123,0,19,0,0,73,23,50,3
+13,baseline,160,196.1644,0,6,0,0,73,24,49,3
+13,model,153,201.0411,0,12,0,0,73,23,50,3
+14,baseline,160,188.8933,0,6,0,0,75,24,51,3
+14,model,150,196.8667,0,10,0,0,75,22,53,3
+15,baseline,160,196.0533,0,6,0,0,75,24,51,3
+15,model,155,198.76,0,7,0,0,75,23,52,3

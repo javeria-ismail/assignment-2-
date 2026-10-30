@@ -1,0 +1,2 @@
+seed,cargo_delivered,average_ship_waiting_time,storm_knockouts,proposed_action,accepted,fallback_used,final_action
+11,157,187.2568,0,{'action': 'warn_storm'},True,False,{'action': 'warn_storm'}

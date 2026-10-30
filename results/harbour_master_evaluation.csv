@@ -1,0 +1,4 @@
+seed,agent,cargo_delivered,average_ship_waiting_time,storm_knockouts,invalid_safety_test_outputs,fallback_uses_in_safety_tests
+11,harbour_master_offline_prototype,157,187.2568,0,4,4
+12,harbour_master_offline_prototype,153,191.7123,0,4,4
+13,harbour_master_offline_prototype,153,201.0411,0,4,4

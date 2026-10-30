@@ -1,0 +1,2 @@
+seed,agent,cargo_delivered,average_ship_waiting_time,crowding_violations,crowding_blocked_moves,storm_knockouts,cargo_lost,ships_arrived,ships_docked,ships_still_waiting_at_end,storms
+11,reflex,255,121.7297,0,9,0,0,74,40,34,4

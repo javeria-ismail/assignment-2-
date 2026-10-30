@@ -1,0 +1,2 @@
+tick,storm_warning,storm_starts,berths,waiting_ship_ids,remembered_storm_starts,known_berth_status
+136,True,"[141, 362, 438]","{'B1': 'Ship 8, cargo remaining: 3'}","[9, 10, 11, 12, 13, 14, 15]",[141],"{'B1': 8, 'B2': 2, 'B3': 4, 'B4': 5}"

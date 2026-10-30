@@ -1,0 +1,5 @@
+policy_a,policy_b,metric,mean_paired_difference_a_minus_b,sd_paired_difference,larger_than_run_to_run_variation
+baseline,model,cargo_delivered,6.4,2.6077,True
+baseline,model,average_ship_waiting_time,-4.4813,2.1391,True
+baseline,model,crowding_violations,0.0,0.0,False
+baseline,model,storm_knockouts,0.0,0.0,False

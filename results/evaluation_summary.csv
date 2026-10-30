@@ -1,0 +1,3 @@
+agent,runs,cargo_delivered_mean,cargo_delivered_sd,average_ship_waiting_time_mean,average_ship_waiting_time_sd,crowding_violations_mean,crowding_violations_sd,storm_knockouts_mean,storm_knockouts_sd
+baseline,5,160.0,0.0,190.646,5.4794,0.0,0.0,0.0,0.0
+model,5,153.6,2.6077,195.1274,5.5857,0.0,0.0,0.0,0.0

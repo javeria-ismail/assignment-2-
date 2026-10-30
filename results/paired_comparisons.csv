@@ -1,0 +1,6 @@
+seed,policy,baseline_cargo,policy_cargo,cargo_difference_vs_baseline,wait_difference_vs_baseline
+11,model,160,157,-3,3.9594999999999914
+12,model,160,153,-7,2.8903999999999996
+13,model,160,153,-7,4.8767
+14,model,160,150,-10,7.973399999999998
+15,model,160,155,-5,2.7066999999999837
